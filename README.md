@@ -1,5 +1,5 @@
-# Simplismart_ML_Assignment
-MistralForCausalLM Inference Optimization
+
+# MistralForCausalLM Inference Optimization
 ```markdown
 # MistralForCausalLM Inference Optimization
 
